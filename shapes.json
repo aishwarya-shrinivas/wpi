@@ -1,0 +1,22 @@
+{
+  "Circles": [
+	{
+		"name":"circle",
+		"radius":5,
+		"cx":5,
+		"cy":5,
+		"fill":"green"	
+		
+	},
+	
+	{
+	  "name":"circle1",
+	  "radius":10,
+	  "cx":10,
+	  "cy":10,
+	  "fill":"red"
+	  },
+	  
+	  
+  ];}
+ 
