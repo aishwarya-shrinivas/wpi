@@ -11,10 +11,10 @@
 
 	"Rectangle": [{
 		"name": "rect",
-		"x": 30,
-		"y": 30,
-		"height": 30,
-		"width": 30,
+		"x": 20,
+		"y": 40,
+		"height": 5,
+		"width": 10,
 		"fill": "red"
 	}]
 }
