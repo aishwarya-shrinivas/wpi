@@ -12,7 +12,7 @@
 	"Rectangle": [{
 		"name": "rect",
 		"x": 20,
-		"y": 40,
+		"y": 34,
 		"height": 2,
 		"width": 6,
 		"fill": "red"
