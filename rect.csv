@@ -1,4 +1,4 @@
-cx,cy,r,fill,x,y,width,height,stroke,stroke-width,x1,x2,x3,x4,x5,x6
+cx,cy,r,fill,x,y,width,height,stroke,stroke-width
 50,50,25,green,0,0,0,0,0,0,0,0,0,0,0,0
 0,0,0,red,20,30,50,50,0,0,0,0,0,0,0,0
-0,0,0,blue,0,0,0,0,0,0,200,10,250,190,160,210
+
