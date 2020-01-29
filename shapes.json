@@ -13,8 +13,8 @@
 		"name": "rect",
 		"x": 20,
 		"y": 40,
-		"height": 5,
-		"width": 10,
+		"height": 2,
+		"width": 6,
 		"fill": "red"
 	}]
 }
