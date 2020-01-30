@@ -21,8 +21,8 @@
 		"name": "line",
 		"x1": 12,
 		"y1": 12,
-		"x2": 200,
-		"y2": 200,
+		"x2": 30,
+		"y2": 30,
 		"stroke": "orange",
 		"stroke-width": 4
 	}]
