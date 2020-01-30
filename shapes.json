@@ -1,20 +1,41 @@
-
 {
 	"Circles": [{
 		"name": "circle",
-		"radius": 2,
-		"cx": 15,
-		"cy": 35,
+		"radius": 30,
+		"cx": 50,
+		"cy": 50,
 		"fill": "green"
 
 	}],
 
 	"Rectangle": [{
 		"name": "rect",
-		"x": 18,
-		"y": 36,
-		"height": 2,
-		"width": 4,
+		"x": 30,
+		"y": 30,
+		"height": 60,
+		"width": 60,
 		"fill": "red"
+	}],
+
+	"Polygons": [{
+		"name": "polygon1",
+		"points": [{
+				"x": 10,
+				"y": 30.0
+			},
+			{
+				"x": 19,
+				"y": 15.4
+			},
+			{
+				"x": 18.4,
+				"y": 46.0
+			},
+			{
+				"x": 15.8,
+				"y": 19.5
+			}
+		]
+
 	}]
 }
