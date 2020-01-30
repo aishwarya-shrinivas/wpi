@@ -25,6 +25,17 @@
 		"y2": 30,
 		"stroke": "orange",
 		"stroke-width": 4
+	}],
+
+	"Polygons": [{
+		"name": "polygon",
+		"x1": 485,
+		"x2": 253,
+		"x3": 401,
+		"x4": 299,
+		"x5": 399,
+		"x6": 201,
+		"fill": "orange"
 	}]
 
 }
