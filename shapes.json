@@ -2,7 +2,7 @@
 	"Circles": [{
 		"name": "circle",
 		"radius": 300,
-		"cx": 50,
+		"cx": 400,
 		"cy": -2000,
 		"fill": "green"
 
@@ -20,7 +20,7 @@
 		
 		"name": "circle2",
 		"radius": 400,
-		"cx": 100,
+		"cx": 600,
 		"cy": -2000,
 		"fill": "lime"
 		
