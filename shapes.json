@@ -11,16 +11,16 @@
 	{
 	
 	"name": "circle1",
-		"radius": 200,
-		"cx": 50,
+		"radius": 100,
+		"cx": 90,
 		"cy": -2000,
 		"fill": "yellow"
 		},
 		{
 		
 		"name": "circle2",
-		"radius": 100,
-		"cx": 50,
+		"radius": 400,
+		"cx": 100,
 		"cy": -2000,
 		"fill": "lime"
 		
