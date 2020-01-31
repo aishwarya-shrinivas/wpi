@@ -19,7 +19,7 @@
 		{
 		
 		"name": "circle2",
-		"radius": 200,
+		"radius": 150,
 		"cx": 700,
 		"cy": -2000,
 		"fill": "lime"
@@ -35,7 +35,28 @@
 		"height": 700,
 		"width": 1500,
 		"fill": "red"
-	}],
+	},
+	      
+	      {
+		"name": "rect1",
+		"x": 50,
+		"y": -1000,
+		"height": 400,
+		"width": 700,
+		"fill": "aqua"
+		      
+	      },
+	      
+	      {
+		  "name": "rect2",
+		"x": 300,
+		"y": -1500,
+		"height": 200,
+		"width": 400,
+		"fill": "goldenrod"    
+		      
+		      
+	      }],
 	
 	"Lines": [{
 		"name": "line",
