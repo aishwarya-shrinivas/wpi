@@ -32,8 +32,8 @@
 		"name": "rect",
 		"x": 100,
 		"y": -1500,
-		"height": 700,
-		"width": 1500,
+		"height": 100,
+		"width": 300,
 		"fill": "red"
 	},
 	      
@@ -49,7 +49,7 @@
 	      
 	      {
 		  "name": "rect2",
-		"x": 300,
+		"x": 600,
 		"y": -1500,
 		"height": 200,
 		"width": 400,
