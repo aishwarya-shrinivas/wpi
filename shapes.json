@@ -13,6 +13,13 @@
 		"cx": 70,
 		"cy": 50,
 		"fill": "teal"
+		},
+		{
+		"name": "circle2",
+		"radius": 50,
+		"cx": 150,
+		"cy": 120,
+		"fill": "lawngreen"
 		}],
 		
 		
@@ -37,8 +44,17 @@
 	
 	
 	
+	},
+	{
+	"name": "rect2",
+		"x": 200,
+		"y": 180,
+		"height": 300,
+		"width": 500,
+		"fill": "maroon"
+	
 	}],
-
+	
 	"Lines": [{
 		"name": "line",
 		"x1": 12,
@@ -47,7 +63,28 @@
 		"y2": 30,
 		"stroke": "orange",
 		"stroke-width": 4
-	}],
+	},
+	{
+		"name": "line1",
+		"x1": 52,
+		"y1": 52,
+		"x2": 70,
+		"y2": 70,
+		"stroke": "yellow",
+		"stroke-width": 6
+	
+	},
+	
+	{"name": "line2",
+		"x1": 92,
+		"y1": 92,
+		"x2": 100,
+		"y2": 100,
+		"stroke": "indigo",
+		"stroke-width": 6
+	
+	
+	}	],
 
 	"Polygons": [{
 			"name": "polygon 1",
