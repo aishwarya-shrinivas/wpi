@@ -26,10 +26,10 @@
 		"name": "line",
 		"x1": 0,
 		"y1": 0,
-		"x2": 200,
-		"y2": 200,
-		"stroke": "orange",
-		"stroke-width": 8
+		"x2": 800,
+		"y2": 100,
+		"stroke": "lawngreen",
+		"stroke-width": 9
 	}],
 	
 	
