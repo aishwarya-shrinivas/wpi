@@ -6,14 +6,29 @@
 		"cy": -2000,
 		"fill": "green"
 
-	}],
+	},
 	
+	{
+	
+	"name": "circle1",
+		"radius": 200,
+		"cx": 50,
+		"cy": -2000,
+		"fill": "yellow"
+		},
+		{
+		
+		"name": "circle2",
+		"radius": 100,
+		"cx": 50,
+		"cy": -2000,
+		"fill": "lime"
 		
 		
-	
-	
+		
+		}],
 
-	"Rectangle": [{
+"Rectangle": [{
 		"name": "rect",
 		"x": 100,
 		"y": -1500,
