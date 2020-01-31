@@ -2,23 +2,23 @@
 	"Circles": [{
 		"name": "circle",
 		"radius": 50,
-		"cx": 80,
-		"cy": 10,
+		"cx": 190,
+		"cy": -2000,
 		"fill": "green"
 
 	},
 	{
 	"name": "circle1",
-		"radius": 150,
-		"cx": 500,
-		"cy": 50,
+		"radius": 100,
+		"cx": 600,
+		"cy": -2000,
 		"fill": "teal"
 		},
 		{
 		"name": "circle2",
-		"radius": 100,
-		"cx": 200,
-		"cy": 150,
+		"radius": 180,
+		"cx": 1300,
+		"cy": -2000,
 		"fill": "lawngreen"
 		}],
 		
@@ -28,16 +28,16 @@
 
 	"Rectangle": [{
 		"name": "rect",
-		"x": 50,
-		"y": -250,
+		"x": 100,
+		"y": -3000,
 		"height": 100,
 		"width": 130,
 		"fill": "red"
 	},
 	{
 		"name": "rect1",
-		"x": 150,
-		"y": -600,
+		"x": 500,
+		"y": -3000,
 		"height": 190,
 		"width": 220,
 		"fill": "lime"
@@ -47,8 +47,8 @@
 	},
 	{
 	"name": "rect2",
-		"x": 600,
-		"y": -500,
+		"x": 1000,
+		"y": -3000,
 		"height": 300,
 		"width": 500,
 		"fill": "maroon"
