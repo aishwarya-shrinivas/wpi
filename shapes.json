@@ -31,7 +31,7 @@
 
 	"Rectangle": [{
 			"name": "rect",
-			"x": -1000,
+			"x": -900,
 			"y": -1000,
 			"height": 300,
 			"width": 600,
@@ -40,10 +40,10 @@
 
 		{
 			"name": "rect1",
-			"x": 10,
+			"x": 5,
 			"y": -1100,
 			"height": 400,
-			"width": 1000,
+			"width": 1100,
 			"fill": "aqua"
 
 		},
@@ -52,8 +52,8 @@
 			"name": "rect2",
 			"x": 1300,
 			"y": -1000,
-			"height": 600,
-			"width": 1000,
+			"height": 400,
+			"width": 800,
 			"fill": "goldenrod"
 
 
