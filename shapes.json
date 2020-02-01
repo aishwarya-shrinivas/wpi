@@ -66,6 +66,26 @@
 		"y2": 100,
 		"stroke": "lawngreen",
 		"strokewidth": 9
+	},
+	
+	{
+	"name": "line",
+		"x1": 0,
+		"y1": 0,
+		"x2": 200,
+		"y2": 300,
+		"stroke": "springreen",
+		"strokewidth": 6
+	},
+	
+	{
+	"name": "line",
+		"x1": 0,
+		"y1": 0,
+		"x2": 500,
+		"y2": 600,
+		"stroke": "tomato",
+		"strokewidth": 3
 	}],
 	
 	
@@ -92,6 +112,26 @@
 				"x":160.0,
 				"y": 198.0
 				}
+
+],
+"name": "polygon1",
+"points": [{
+					"x": 220.0,
+					"y": 10.0
+				},
+				{
+					"x": 300.0,
+					"y": 210.0
+				},
+				{
+					"x": 170.0,
+					"y": 250.0
+				},
+				{
+					"x": 123.0,
+					"y": 234.0
+				}
+
 
 ]
 }
