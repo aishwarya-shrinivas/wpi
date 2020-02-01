@@ -2,7 +2,7 @@
 	"Circles": [{
 			"name": "circle",
 			"radius": 200,
-			"cx": -600,
+			"cx": -500,
 			"cy": -1900,
 			"fill": "green"
 
@@ -20,7 +20,7 @@
 
 			"name": "circle2",
 			"radius": 400,
-			"cx": 1600,
+			"cx": 1500,
 			"cy": -1900,
 			"fill": "lime"
 
@@ -31,7 +31,7 @@
 
 	"Rectangle": [{
 			"name": "rect",
-			"x": -800,
+			"x": -750,
 			"y": -1100,
 			"height": 300,
 			"width": 600,
@@ -43,14 +43,14 @@
 			"x": 5,
 			"y": -1100,
 			"height": 400,
-			"width": 1000,
+			"width": 900,
 			"fill": "aqua"
 
 		},
 
 		{
 			"name": "rect2",
-			"x": 1200,
+			"x": 1100,
 			"y": -1100,
 			"height": 400,
 			"width": 800,
