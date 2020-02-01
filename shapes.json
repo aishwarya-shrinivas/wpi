@@ -19,7 +19,7 @@
 		{
 
 			"name": "circle2",
-			"radius": 400,
+			"radius": 300,
 			"cx": 1500,
 			"cy": -1900,
 			"fill": "lime"
