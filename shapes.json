@@ -1,139 +1,161 @@
 {
 	"Circles": [{
-		"name": "circle",
-		"radius": 100,
-		"cx": 300,
-		"cy": -2000,
-		"fill": "green"
+			"name": "circle",
+			"radius": 100,
+			"cx": 300,
+			"cy": -2000,
+			"fill": "green"
 
-	},
-	
-	{
-	
-	"name": "circle1",
-		"radius": 100,
-		"cx": 50,
-		"cy": -2000,
-		"fill": "yellow"
+		},
+
+		{
+
+			"name": "circle1",
+			"radius": 100,
+			"cx": 50,
+			"cy": -2000,
+			"fill": "yellow"
 		},
 		{
-		
-		"name": "circle2",
-		"radius": 130,
-		"cx": 700,
-		"cy": -2000,
-		"fill": "lime"
-		
-		
-		
-		}],
 
-"Rectangle": [{
-		"name": "rect",
-		"x": 100,
-		"y": -1500,
-		"height": 100,
-		"width": 300,
-		"fill": "red"
-	},
-	      
-	      {
-		"name": "rect1",
-		"x": 50,
-		"y": -1000,
-		"height": 400,
-		"width": 700,
-		"fill": "aqua"
-		      
-	      },
-	      
-	      {
-		  "name": "rect2",
-		"x": 600,
-		"y": -1500,
-		"height": 200,
-		"width": 400,
-		"fill": "goldenrod"    
-		      
-		      
-	      }],
-	
+			"name": "circle2",
+			"radius": 130,
+			"cx": 700,
+			"cy": -2000,
+			"fill": "lime"
+
+
+
+		}
+	],
+
+	"Rectangle": [{
+			"name": "rect",
+			"x": 100,
+			"y": -1500,
+			"height": 100,
+			"width": 300,
+			"fill": "red"
+		},
+
+		{
+			"name": "rect1",
+			"x": 50,
+			"y": -1000,
+			"height": 400,
+			"width": 700,
+			"fill": "aqua"
+
+		},
+
+		{
+			"name": "rect2",
+			"x": 600,
+			"y": -1500,
+			"height": 200,
+			"width": 400,
+			"fill": "goldenrod"
+
+
+		}
+	],
+
 	"Lines": [{
-		"name": "line",
-		"x1": 0,
-		"y1": 0,
-		"x2": 800,
-		"y2": 100,
-		"stroke": "lawngreen",
-		"strokewidth": 9
-	},
-	
-	{
-	"name": "line1",
-		"x1": 0,
-		"y1": 0,
-		"x2": 200,
-		"y2": 300,
-		"stroke": "maroon",
-		"strokewidth": 6
-	},
-	
-	{
-	"name": "line2",
-		"x1": 0,
-		"y1": 0,
-		"x2": 500,
-		"y2": 600,
-		"stroke": "tomato",
-		"strokewidth": 3
-	}],
-	
-	
+			"name": "line",
+			"x1": 0,
+			"y1": 0,
+			"x2": 800,
+			"y2": 100,
+			"stroke": "lawngreen",
+			"strokewidth": 9
+		},
+
+		{
+			"name": "line1",
+			"x1": 0,
+			"y1": 0,
+			"x2": 200,
+			"y2": 300,
+			"stroke": "springreen",
+			"strokewidth": 6
+		},
+
+		{
+			"name": "line2",
+			"x1": 0,
+			"y1": 0,
+			"x2": 500,
+			"y2": 600,
+			"stroke": "tomato",
+			"strokewidth": 3
+		}
+	],
+
+
 	"Polygons": [{
-		
-"name": "polygon4",
-			"points": [{
-					"x": 100.0,
-					"y": 10.0
-				},
-				{
-					"x": 40.0,
-					"y": 198.0
-				},
-				{
-					"x": 190.0,
-					"y": 78.0
-				},
-				{
-					"x": 10.0,
-					"y": 78.0
-				},
-				{
-				"x":160.0,
+
+		"name": "polygon4",
+		"points": [{
+				"x": 100.0,
+				"y": 10.0
+			},
+			{
+				"x": 40.0,
 				"y": 198.0
-				}
+			},
+			{
+				"x": 190.0,
+				"y": 78.0
+			},
+			{
+				"x": 10.0,
+				"y": 78.0
+			},
+			{
+				"x": 160.0,
+				"y": 198.0
+			}
 
-],
-"name": "polygon1",
-"points": [{
-					"x": 220.0,
-					"y": 10.0
-				},
-				{
-					"x": 300.0,
-					"y": 210.0
-				},
-				{
-					"x": 170.0,
-					"y": 250.0
-				},
-				{
-					"x": 123.0,
-					"y": 234.0
-				}
+		]
+	}, {
+		"name": "polygon3",
+		"points": [{
+				"x": 220.0,
+				"y": 10.0
+			},
+			{
+				"x": 300.0,
+				"y": 210.0
+			},
+			{
+				"x": 170.0,
+				"y": 250.0
+			},
+			{
+				"x": 123.0,
+				"y": 234.0
+			}
 
 
-]
-}
-]
+		]
+	}, {
+		"name": "polygon2",
+		"points": [{
+				"x": 200.0,
+				"y": 10.0
+			},
+			{
+				"x": 250.0,
+				"y": 190.0
+			},
+			{
+				"x": 160.0,
+				"y": 210.0
+			}
+		]
+	}]
+
+
+
+
 }
