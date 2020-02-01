@@ -19,7 +19,7 @@
 		{
 
 			"name": "circle2",
-			"radius": 300,
+			"radius": 250,
 			"cx": 1500,
 			"cy": -1900,
 			"fill": "lime"
@@ -43,7 +43,7 @@
 			"x": 90,
 			"y": -1100,
 			"height": 400,
-			"width": 900,
+			"width": 700,
 			"fill": "aqua"
 
 		},
