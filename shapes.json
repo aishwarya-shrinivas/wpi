@@ -2,8 +2,8 @@
 	"Circles": [{
 			"name": "circle",
 			"radius": 100,
-			"cx": 300,
-			"cy": -2000,
+			"cx": -1000,
+			"cy": -1900,
 			"fill": "green"
 
 		},
@@ -11,17 +11,17 @@
 		{
 
 			"name": "circle1",
-			"radius": 100,
-			"cx": 50,
-			"cy": -2000,
+			"radius": 200,
+			"cx": 500,
+			"cy": -1900,
 			"fill": "yellow"
 		},
 		{
 
 			"name": "circle2",
-			"radius": 130,
-			"cx": 700,
-			"cy": -2000,
+			"radius": 150,
+			"cx": 2000,
+			"cy": -1900,
 			"fill": "lime"
 
 
