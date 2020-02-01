@@ -2,7 +2,7 @@
 	"Circles": [{
 			"name": "circle",
 			"radius": 200,
-			"cx": -450,
+			"cx": -400,
 			"cy": -1900,
 			"fill": "green"
 
@@ -31,10 +31,10 @@
 
 	"Rectangle": [{
 			"name": "rect",
-			"x": -650,
+			"x": -600,
 			"y": -1100,
 			"height": 300,
-			"width": 600,
+			"width": 500,
 			"fill": "red"
 		},
 
