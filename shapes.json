@@ -1,9 +1,9 @@
 {
 	"Circles": [{
 			"name": "circle",
-			"radius": 150,
+			"radius": 250,
 			"cx": -600,
-			"cy": -1700,
+			"cy": -1800,
 			"fill": "green"
 
 		},
