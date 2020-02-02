@@ -4,7 +4,9 @@
 			"radius": 250,
 			"cx": -600,
 			"cy": -1800,
-			"fill": "green"
+			"fill": "green",
+			"stroke": "",
+			"strokewidth": 0
 
 		},
 		{
@@ -23,7 +25,9 @@
 			"radius": 200,
 			"cx": 500,
 			"cy": -1800,
-			"fill": "yellow"
+			"fill": "yellow",
+			"stroke": "",
+			"strokewidth": 0
 		},
 		{
 
