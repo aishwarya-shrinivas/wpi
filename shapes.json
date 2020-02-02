@@ -13,8 +13,8 @@
 			"cx": -1000,
 			"cy": -1900,
 			"fill": "orange"
-			 "stroke": "yellow"
-			 "stroke-width":3
+			 "stroke"= "yellow"
+			 "stroke-width"=3
 		    },
 
 		{
