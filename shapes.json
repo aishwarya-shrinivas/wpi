@@ -44,7 +44,7 @@
 			"y": -1100,
 			"height": 300,
 			"width": 500,
-			"fill": "red"
+			"fill": "red",
 		        "stroke": "black",
 		        "strokewidth": 25
 		},
