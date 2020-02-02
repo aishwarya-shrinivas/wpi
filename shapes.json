@@ -57,7 +57,7 @@
 			"y": -1100,
 			"height": 400,
 			"width": 700,
-			"fill": "none"
+			"fill": "none",
 			"stroke": "red",
 			"strokewidth" : 20
 			
