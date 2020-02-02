@@ -7,15 +7,15 @@
 			"fill": "green"
 
 		},
-		    {
-		    "name": "circle3",
+		{
+			"name": "circle3",
 			"radius": 200,
 			"cx": -1800,
 			"cy": -1800,
 			"fill": "orange",
-			 "stroke": "blue",
-			 "strokewidth" :60
-		    },
+			"stroke": "blue",
+			"strokewidth": 60
+		},
 
 		{
 
@@ -45,8 +45,8 @@
 			"height": 300,
 			"width": 500,
 			"fill": "red",
-		        "stroke": "black",
-		        "strokewidth": 60
+			"stroke": "black",
+			"strokewidth": 60
 		},
 
 		{
@@ -69,7 +69,7 @@
 
 
 		},
-		      {
+		{
 			"name": "rect3",
 			"x": -2100,
 			"y": -1100,
@@ -79,8 +79,8 @@
 
 
 		}
-		      
-		 ],
+
+	],
 
 	"Lines": [{
 			"name": "line",
@@ -136,7 +136,7 @@
 			{
 				"x": 160.0,
 				"y": 198.0
-			},
+			}
 
 		]
 	}, {
@@ -156,8 +156,8 @@
 			{
 				"x": 123.0,
 				"y": 234.0
-			},
-			   
+			}
+
 
 		]
 	}, {
