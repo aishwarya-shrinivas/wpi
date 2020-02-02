@@ -9,7 +9,7 @@
 		},
 		    {
 		    "name": "circle3",
-			"radius": 50,
+			"radius": 300,
 			"cx": -1000,
 			"cy": -1900,
 			"fill": "orange",
