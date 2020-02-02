@@ -45,8 +45,8 @@
 			"height": 300,
 			"width": 500,
 			"fill": "red"
-		        "stroke" : "lime",
-		        "strokewidth" : 25
+		        "stroke": "lime",
+		        "strokewidth": 25
 		},
 
 		{
