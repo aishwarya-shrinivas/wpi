@@ -10,8 +10,8 @@
 		    {
 		    "name": "circle3",
 			"radius": 300,
-			"cx": -1000,
-			"cy": -1900,
+			"cx": -1300,
+			"cy": -1800,
 			"fill": "orange",
 			 "stroke": "blue",
 			 "strokewidth" :5
