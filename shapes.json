@@ -66,7 +66,21 @@
 			"fill": "goldenrod"
 
 
-		}
+		},
+		      {
+			"name": "rect3",
+			"x": -2000,
+			"y": -1100,
+			"height": 400,
+			"width": 900,
+			"fill": "darkpink"
+
+
+		},
+		      
+		      
+		      
+		      
 	],
 
 	"Lines": [{
