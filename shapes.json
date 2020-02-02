@@ -31,7 +31,7 @@
 			"radius": 250,
 			"cx": 1400,
 			"cy": -1800,
-			"fill": "none",
+			"fill": "white",
 			"stroke": "indigo",
 			"strokewidth" : 20
 
@@ -57,7 +57,7 @@
 			"y": -1100,
 			"height": 400,
 			"width": 700,
-			"fill": "none",
+			"fill": "white",
 			"stroke": "red",
 			"strokewidth" : 20
 			
