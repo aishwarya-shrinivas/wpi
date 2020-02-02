@@ -14,7 +14,7 @@
 			"cy": -1800,
 			"fill": "orange",
 			"stroke": "blue",
-			"strokewidth": 60
+			"strokewidth": 40
 		},
 
 		{
@@ -46,7 +46,7 @@
 			"width": 500,
 			"fill": "red",
 			"stroke": "black",
-			"strokewidth": 60
+			"strokewidth": 40
 		},
 
 		{
