@@ -12,8 +12,8 @@
 			"radius": 50,
 			"cx": -1000,
 			"cy": -1900,
-			"fill": "orange"
-			 "stroke"= "yellow"
+			"fill": "orange",
+			 "stroke"= "yellow",
 			 "stroke-width"=3
 		    },
 
