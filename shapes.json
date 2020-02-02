@@ -7,13 +7,22 @@
 			"fill": "green"
 
 		},
+		    {
+		    "name": "circle",
+			"radius": 50,
+			"cx": -1000,
+			"cy": -1900,
+			"fill": "orange"
+			 "stroke": "yellow"
+			 "stroke-width":3
+		    },
 
 		{
 
 			"name": "circle1",
 			"radius": 200,
 			"cx": 500,
-			"cy": -1900,
+			"cy": -1800,
 			"fill": "yellow"
 		},
 		{
