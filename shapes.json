@@ -104,12 +104,12 @@
 
 		{
 			"name": "line2",
-			"x1": 50,
-			"y1": 100,
-			"x2": 1100,
-			"y2": 100,
-			"stroke": "tomato",
-			"strokewidth": 10
+			"x1": -2500,
+			"y1": 300,
+			"x2": 2700,
+			"y2": 300,
+			"stroke": "black",
+			"strokewidth": 30
 		}
 	],
 
