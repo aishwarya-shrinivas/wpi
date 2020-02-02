@@ -111,6 +111,26 @@
 			"y2": 300,
 			"stroke": "orange",
 			"strokewidth": 20
+		},
+		  
+		  {
+			"name": "line3",
+			"x1": 2500,
+			"y1": -1700,
+			"x2": 2000,
+			"y2": -1700,
+			"stroke": "magenta",
+			"strokewidth": 30
+		},
+		  
+		   {
+			"name": "line4",
+			"x1": 2600,
+			"y1": -900,
+			"x2": 2100,
+			"y2": -900,
+			"stroke": "yellow",
+			"strokewidth": 30
 		}
 	],
 
