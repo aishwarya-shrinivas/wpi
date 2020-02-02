@@ -9,7 +9,7 @@
 		},
 		    {
 		    "name": "circle3",
-			"radius": 300,
+			"radius": 280,
 			"cx": -1300,
 			"cy": -1800,
 			"fill": "orange",
@@ -87,7 +87,7 @@
 			"x2": 1100,
 			"y2": 10,
 			"stroke": "lawngreen",
-			"strokewidth": 9
+			"strokewidth": 30
 		},
 
 		{
@@ -97,7 +97,7 @@
 			"x2": 1000,
 			"y2": 200,
 			"stroke": "blue",
-			"strokewidth": 6
+			"strokewidth": 20
 		},
 
 		{
@@ -107,7 +107,7 @@
 			"x2": 1100,
 			"y2": 100,
 			"stroke": "tomato",
-			"strokewidth": 5
+			"strokewidth": 10
 		}
 	],
 
