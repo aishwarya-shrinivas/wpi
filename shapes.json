@@ -164,7 +164,8 @@
 					"y": -500.0
 				}
 
-			]
+			],
+			"fill":"green"
 		}, {
 			"name": "polygon3",
 			"points": [{
@@ -185,7 +186,8 @@
 				}
 
 
-			]
+			],
+			"fill":"yellow"
 		}, {
 			"name": "polygon2",
 			"points": [{
@@ -214,7 +216,8 @@
 					"y": 200.0
 				}
 
-			]
+			],
+			"fill":"red"
 		},
 		{
 			"name": "polygon5",
@@ -244,7 +247,8 @@
 					"y": -138.0
 				}
 
-			]
+			],
+			"fill":"orange"
 
 
 
@@ -285,7 +289,8 @@
 				
 				
 				
-			]
+			],
+			     "fill":"blue"
 			     
 			     
 			     
