@@ -8,7 +8,7 @@
 
 		},
 		{
-			"name": "circle3",
+			"name": "circle1",
 			"radius": 200,
 			"cx": -1800,
 			"cy": -1800,
@@ -19,7 +19,7 @@
 
 		{
 
-			"name": "circle1",
+			"name": "circle2",
 			"radius": 200,
 			"cx": 500,
 			"cy": -1800,
@@ -27,7 +27,7 @@
 		},
 		{
 
-			"name": "circle2",
+			"name": "circle3",
 			"radius": 250,
 			"cx": 1400,
 			"cy": -1800,
@@ -142,7 +142,7 @@
 
 	"Polygons": [{
 
-			"name": "polygon4",
+			"name": "polygon",
 			"points": [{
 					"x": -300.0,
 					"y": 30.0
@@ -165,9 +165,9 @@
 				}
 
 			],
-			"fill":"green"
+			"fill":"grey"
 		}, {
-			"name": "polygon3",
+			"name": "polygon1",
 			"points": [{
 					"x": 220.0,
 					"y": 10.0
@@ -187,7 +187,7 @@
 
 
 			],
-			"fill":"yellow"
+			"fill":"slateblue"
 		}, {
 			"name": "polygon2",
 			"points": [{
@@ -217,10 +217,10 @@
 				}
 
 			],
-			"fill":"red"
+			"fill":"wheat"
 		},
 		{
-			"name": "polygon5",
+			"name": "polygon3",
 			"points": [{
 					"x": -850.0,
 					"y": -75.0
@@ -248,7 +248,7 @@
 				}
 
 			],
-			"fill":"orange"
+			"fill":"coral"
 
 
 
@@ -256,7 +256,7 @@
 		     
 		     {
 			     
-			"name":"polygon6",
+			"name":"polygon4",
 			"points" : [{
 				
 					"x":-2400,
@@ -290,7 +290,7 @@
 				
 				
 			],
-			     "fill":"blue"
+			     "fill":"crimson"
 			     
 			     
 			     
