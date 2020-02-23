@@ -56,14 +56,8 @@
           "group": "B",
           "value": 16,
           "colname": "level3"
-        }
-      ],
-      "colname": "level2"
-    },
-    {
-      "name": "boss3",
-      "children": [
-        {
+        },
+         {
           "name": " ",
           "group": "B",
           "value": 10,
@@ -75,7 +69,6 @@
           "value": 13,
           "colname": "level3"
         }
-        
       ],
       "colname": "level2"
     }
