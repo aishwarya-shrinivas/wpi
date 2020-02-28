@@ -62,8 +62,8 @@ console.log(root.leaves())
       var point = svg.append("svg:circle")
    .style("fill", "black")
    .attr("r", 1)
-   .attr("cx", 60)
-   .attr("cy", 190);
+   .attr("cx", 10)
+   .attr("cy", 90);
 
     var point = svg.append("svg:circle")
    .style("fill", "black")
@@ -73,7 +73,6 @@ console.log(root.leaves())
 
   // and to add the text labels
   svg
-    .selectAll("text")
     .data(root.leaves())
     .enter()
     .append("text")
