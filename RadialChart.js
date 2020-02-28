@@ -4,10 +4,22 @@ class RadialChart extends Chart {
     }
 
     display(image, randomValues, randomIndices) {     
+      console.log(randomValues)
     var width = 300,
     height = 300,
     barHeight = height / 2 - 40,
     radius = Math.min(width, height) / 2;
+
+
+        var labels;
+        var Apos = Math.ceil(Math.random()*9);
+        var Bpos = Math.ceil(Math.random()*9);
+        while(Apos==Bpos){
+            Bpos = Math.ceil(Math.random()*9);
+        }
+        labels = ['', '', '', '', '', '', '', '', '', ''];
+        labels[Apos]=".";
+        labels[Bpos]=".";
 
 var formatNumber = d3.format("s");
 var color = d3.scaleOrdinal()
@@ -27,18 +39,6 @@ var svg = image.append("g")
 
   var keys = ['','','','','','','','','',''];
   var numBars = keys.length;
-
-
-
-  var labels;
-        var Apos = Math.ceil(Math.random()*9);
-        var Bpos = Math.ceil(Math.random()*9);
-        while(Apos==Bpos){
-            Bpos = Math.ceil(Math.random()*9);
-        }
-        labels = ['', '', '', '', '', '', '', '', '', ''];
-        labels[Apos]=".";
-        labels[Bpos]=".";
 
 
   var x = d3.scaleLinear()
@@ -62,13 +62,13 @@ var svg = image.append("g")
 var arc = d3.arc()
       .startAngle(function(d,i) { return (i * 2 * Math.PI) / numBars; })
       .endAngle(function(d,i) { return ((i + 1) * 2 * Math.PI) / numBars; })
-      .innerRadius(0)
+       .innerRadius(0)
       .outerRadius(0);
 
 
       
       var segments = svg.selectAll("path")
-          .data(data)
+         .data(data)
         .enter().append("path")
           .each(function(d) { d.outerRadius = 0; })
           
@@ -101,15 +101,27 @@ var arc = d3.arc()
 
 var point = svg.append("svg:circle")
    .style("fill", "black")
-   .attr("r", 2)
+   .attr("r", 1)
    .attr("cx", Math.ceil(Math.random()*49))
    .attr("cy", Math.ceil(Math.random()*79))
 
    var point = svg.append("svg:circle")
    .style("fill", "black")
-   .attr("r", 2)
+   .attr("r", 1)
    .attr("cx", Math.ceil(Math.random()*-39))
    .attr("cy", Math.ceil(Math.random()*-59))
+
+
+   var pos = d3.arc()
+        .innerRadius(radius-19)
+        .outerRadius(radius-19)
+        svg.append("text")
+            .attr("transform", function(d) { return "translate(" +   + ")"; })
+            .attr('dy', 5)
+            .attr("text-anchor", "middle")
+            .attr("fill", "#000000")
+            .attr("font-size", "20px")
+            .text(function(d, i) { return labels[i]; })
 
 
   labels.selectAll("text")
