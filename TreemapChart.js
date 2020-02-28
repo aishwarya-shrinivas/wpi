@@ -73,7 +73,7 @@ console.log(root.leaves())
 
   // and to add the text labels
   svg
-    .data(root.leaves())
+    
     .enter()
     .append("text")
       .attr("x", function(d){ return d.x0+10})    // +10 to adjust position (more right)
