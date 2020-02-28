@@ -1,0 +1,49 @@
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="Trial.js"></script>
+<script src="Chart.js"></script>
+<script src="BarChart.js"></script>
+<script src="Experiment.js"></script>
+<script src="PieChart.js"></script>
+<script src="DoughnutChart.js"></script>
+<script src="RadialChart.js"></script>
+<script src="TreemapChart.js"></script>
+
+<style>
+</style>
+
+<body>
+    <h1> Experiment </h1>
+
+    <p>What do you think the percent of the smaller value is of the larger value?</p>
+    <p>If you think the smaller one is exactly a half of the bigger one, please input 50</p>
+    <input type="text" id="guess" value="Ex: 45" onfocus="this.value=''">
+    <button id="buttons" onclick="submitAnswer()">Try it</button>
+
+    <div class="chart">
+
+
+    </div>
+
+</body>
+
+<script>
+
+    var chartLocation = d3.select(".chart").append("svg")
+    .attr("height","100%")
+    .attr("width","100%");
+
+    // Append Chart classes to this list Ex: [new BarChart(), new PieChart(), new PolarChart()]
+    // Example Class BarChart()
+    var charts = [new BarChart(), new PieChart(), new DoughnutChart(), new RadialChart(), new TreemapChart()];
+    var trialsPerChart = 1;
+    var experiment = new Experiment(charts, trialsPerChart, chartLocation);
+
+    var guessValue = document.getElementById("guess");
+
+    function submitAnswer() {
+        experiment.endTrial(guessValue.value);
+        guessValue.value = "";
+        console.log(JSON.stringify(experiment))
+    }
+
+</script>
